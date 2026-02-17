@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "はなまるぴっぴはよいこだけ",
+  "base_artist": "Ａ応Ｐ",
+  "createdAt": "2026-02-17T13:17:46.320996Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "はなまるぴっぴはよいこだけ",
+      "artist": "96猫",
+      "has_synced": true,
+      "path": "select/01_はなまるぴっぴはよいこだけ_96猫.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "はなまるぴっぴはよいこだけ",
+      "artist": "A応P",
+      "has_synced": true,
+      "path": "select/02_はなまるぴっぴはよいこだけ_A応P.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "はなまるぴっぴはよいこだけ",
+      "artist": "AOP",
+      "has_synced": false,
+      "path": "select/03_はなまるぴっぴはよいこだけ_AOP.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "はなまるぴっぴはよいこだけ",
+      "artist": "A応P",
+      "has_synced": false,
+      "path": "select/pl_01_はなまるぴっぴはよいこだけ_A応P.txt"
+    }
+  ]
+}
