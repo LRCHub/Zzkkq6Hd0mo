@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "はなまるぴっぴはよいこだけ",
-  "base_artist": "Ａ応Ｐ",
-  "createdAt": "2026-02-17T13:17:46.320996Z",
+  "base_artist": "A応P",
+  "createdAt": "2026-03-15T09:37:28.656789Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -27,6 +27,14 @@
       "artist": "AOP",
       "has_synced": false,
       "path": "select/03_はなまるぴっぴはよいこだけ_AOP.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "はなまるぴっぴはよいこだけ",
+      "artist": "TAMUSIC",
+      "has_synced": true,
+      "path": "select/04_はなまるぴっぴはよいこだけ_TAMUSIC.lrc"
     },
     {
       "id": "petitlyrics_1",
